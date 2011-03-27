@@ -11,7 +11,7 @@ a:hover {background-color:#ff813c;color:#fff;}
 .alert {color:#ff0000;}
 #header, #main, #footer {width:800px;}
 #header {font-family:"Myriad Web Pro", Helvetica, Arial, sans-serif;letter-spacing:1px;border-bottom:5px solid #333;color:#333;padding:15px 0;height:35px;}
-#header, #user_bar {float:right;font-size:10px;}
+#header #user_bar {float:right;font-size:10px;}
 #footer {border-top:5px solid #c1c1c1;margin-top:10px;clear:both;padding:10px 0;text-align:center;font-size:11px;}
 #header h1 {padding-top:14px;float:left;font-size:30px;}
 #header h1 a {color:#000;}
