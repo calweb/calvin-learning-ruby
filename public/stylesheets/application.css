@@ -33,7 +33,7 @@ a:hover {background-color:#ff813c;color:#fff;}
 #main h3:hover .actions {display:inline;}
 .fieldWithErrors {display:table;float:left;margin:0;width:100px;margin-right:10px;}
 #main form .fieldWithErrors label {border:20px solid #ff0000;margin-right:0px;}
-#main form .fieldWithErrors inpuut, #main form .fieldWithErrors textarea {width:250px;border:2px solid #ff0000;}
+#main form .fieldWithErrors input, #main form .fieldWithErrors textarea {width:250px;border:2px solid #ff0000;}
 #errorExplanation {width:413px;border:2px solid #ff0000;padding:7px;padding-bottom:12px;margin-bottom:20px;background-color:#f0f0f0;margin:0;}
 #errorExplanation h2 {text-align:left;font-weight:bold;padding:5px 5px 5px 15px;font-size:12px;margin: -7px;background-color:#c00;color:#fff;}
 #errorExplanation p {color:#333;margin-bottom:0;padding:5px;margin:0;}
